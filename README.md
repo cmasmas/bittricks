@@ -1,0 +1,2 @@
+# bittricks
+List of BitTricks
